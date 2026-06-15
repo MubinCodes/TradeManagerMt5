@@ -172,11 +172,12 @@ It is not an automatic trading strategy. It is a manual trade management tool.
 
 ### Trade Manager Panel
 
-![Trade Manager Panel](screenshots/trade-manager-panel.png)
+![UI](screenshots/UI.png)
+
 
 ### Input Settings
 
-![Input Settings](screenshots/input-settings.png)
+![Input Settings](screenshots/Inputs.png)
 
 ---
 
